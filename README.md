@@ -1,5 +1,5 @@
 # Welcome to `CodeTracker 1.0`
-### A Python utility for counting lines of code in your Python projects.
+### A Python utility for counting lines of code in your Python projects and generating insights.
 
 - **Mission:** CodeTracker's goal is to provide a straightforward and efficient way to quantify your coding efforts. Whether you're tracking progress in a learning journey or monitoring the growth of a project, CodeTracker is your go-to tool for quick and accurate line count analytics and visualizations.
 - **Languages:** Python
