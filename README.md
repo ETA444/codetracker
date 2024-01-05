@@ -7,6 +7,7 @@
 ## Features
 
 - **Line Counting**: Accurately count lines of code in `.py` files within any selected directory.
+- **Insights**: Generates descriptive statistics and visualizations, your personal learning dashboard.
 - **Folder Flexibility**: Process multiple folders sequentially, aggregating line counts across your projects.
 - **Interactive Console Interface**: Simple prompts guide you through selecting folders and reviewing total line counts.
 - **Continuous Tracking**: Option to add more folders for line count without restarting the program.
